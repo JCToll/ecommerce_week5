@@ -9,7 +9,7 @@ form.example input[type=text] {
 /*	font-size:2.0vw;   Use variable font size so it resizes as width changes */
   border: 1px solid grey;
   float: left;
-  width: 80%;
+  width: 60%;
   background: #f1f1f1;
 }
 
